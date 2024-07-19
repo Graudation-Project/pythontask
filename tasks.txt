@@ -1,0 +1,23 @@
+#=============> Nariman <===========#
+# Responsible For Binary Task
+# 1- Create function bin(dec) that convert decimal number to binary number
+# 2- Create function dec(bin) that convert binary number to decimal number
+# 3- Create function bin_mul(bin1,bin2) to multiply two binary numbers
+# 4- Create function bin_sum(bin1,bin2) to sum two binary numbers
+# 5- Create function bin_sub(bin1,bin2) to subtract two binary numbers
+
+#=============> Mariam <=============#
+# Responsible For Math Task
+# 1- Create function sum(*nubmers) to add multiple numbers together
+# 2- Create function sub(*numbers) to subtract multiple numbers together
+# 3- Create function mul(*numbers) to multiply numbers
+# 4- Create function mod(n1,n2) to return the quotation and reminder in a tuple (q,r)
+# Ex for (4)  9/2 = 4.5 so return (4,1)
+# 5- Create function Max(*numbers) and Min(*numbers) to return the maximum and minimum number.
+
+#=============> Menna <===============#
+# Responsible For Statistics Task
+# 1- Create a std function that calculate the standard deviation for a list of x and y
+# 2- Create a mean function that calculate the mean for x 
+# 3- Create a mode function that return the most repetative number in x
+# 4- Create a median function that calculate the meidan for x list
